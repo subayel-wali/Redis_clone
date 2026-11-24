@@ -1,0 +1,19 @@
+# Build directory
+build/
+
+# Executable files
+redis
+*.out
+
+# macOS files
+.DS_Store
+
+# VS Code settings
+.vscode/
+.cache/
+compile_commands.json
+*.exe
+
+data/*.aof
+data/*.txt
+
